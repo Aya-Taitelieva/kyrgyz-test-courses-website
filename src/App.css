@@ -1,0 +1,10 @@
+/* .tn-atom {
+  border-radius: 3000px;
+  background-color: #facb4b;
+  background-position: center center;
+  border-color: transparent;
+  border-style: solid;
+} */
+.yellowBtn:hover {
+  background-color: black !important;
+}
